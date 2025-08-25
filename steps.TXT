@@ -1,0 +1,14 @@
+Configuração da conta local do GIT
+git config --global user.name gui777x
+git config --global user.email guizin.clementino@gmail.com
+
+npx create-expo-app@latest gdapp
+
+cd gdapp
+npm run reset-project -> presione 'n'
+
+criar uma pasta constants
+criar um arquivo colors.ts na pasta constants
+
+criar uma pasta components
+criar um arquivo customHeader.tsx na pasta components --> rnfs
