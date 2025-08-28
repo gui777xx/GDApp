@@ -1,4 +1,4 @@
-import CustomHeader from "@/components/customHeader";
+import CustomHeader from "@/components/CustomHeader";
 import { Stack } from "expo-router";
 
 export default function RootLayout() {
